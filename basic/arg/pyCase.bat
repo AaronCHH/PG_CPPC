@@ -1,0 +1,1 @@
+python3 pyCase.py 3000 F

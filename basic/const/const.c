@@ -1,0 +1,16 @@
+ï»¿#include <stdlib.h>
+#include <stdio.h>
+
+#define PI 3.14159  /*«Å§iPI¬°3.14159*/ 
+
+int main(int argc, char const *argv[])
+{
+
+  float radius = 5.0,Area;  /*«Å§i»P³]©w¶ê¥b®| */    
+  Area = radius*radius*PI;  /* ­pºâ¶ê­±¿n */     
+
+  printf("¶êªº¥b®|¬° = %f, ­±¿n¬° = %f \n", radius, Area);    
+
+  system("pause");
+  return 0;
+}

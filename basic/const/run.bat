@@ -1,0 +1,1 @@
+gcc const.c -o const.exe
